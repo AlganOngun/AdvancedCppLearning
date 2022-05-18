@@ -3,4 +3,4 @@ project(Exceptions)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Exceptions main.cpp)
+add_executable(Exceptions subclassExceptions.cpp)
